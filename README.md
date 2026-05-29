@@ -16,4 +16,4 @@ https://portafolio-ten-iota-82.vercel.app/
 
 ## Autor
 
-Sergi Lozada
+Sergi Lozada Vega
